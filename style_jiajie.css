@@ -14,8 +14,9 @@ body {
   }
 
   h1 {
+    border-image-source: image(20171011_093635216_iOS);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 26px;
+    font-size: 30px;
     color: rgb(0, 0, 0);
     margin-left: 300px;
     margin-right: 300px;
