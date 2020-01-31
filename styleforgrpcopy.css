@@ -61,18 +61,15 @@ header *{
 
 
 
-
-
-
-
-  p {
+p {
     font-family: verdana;
-    font-size: 15px;
-    color: rgb(180, 180, 1805);
+    font-size: 18px;
+    color: rgb(255, 255, 255)55);
     margin-left: 300px;
     margin-right: 300px;
     text-align: center;
   }
+
   h2 { 
 color: rgb(0, 0, 0);
 font-family: verdana;
