@@ -11,7 +11,19 @@ body {
       display: inline-block;
       margin: auto;
       box-shadow: 27px 87px rgba(0,0,0,0.37);
+      border-radius: 25px;
+      overflow: hidden;
 }
+      .box-img{
+        float: left;
+        width: 45%;
+      }
+      .box-text{
+        width: 55%;
+        float: left;
+        padding-left: 35px;
+
+      }
 
 h1 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
