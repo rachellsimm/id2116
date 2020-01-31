@@ -64,7 +64,7 @@ header *{
 
 .column {
   float: left;
-  width: 25%;
+  width: 20%;
   padding: 5px;
 }
 
@@ -115,7 +115,7 @@ h5 {
     color: rgb(0, 0, 0);
     font-family: verdana;
     font-size: 18px;
-    margin: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 20px;
     text-align: left;
     }  
 
