@@ -65,7 +65,7 @@ header *{
 .column {
   float: left;
   width: 25%;
-  padding: 40px 40px 40px 40px;
+  padding: 5px;
 }
 
 /* Clearfix (clear floats) */
