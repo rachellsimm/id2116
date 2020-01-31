@@ -40,12 +40,12 @@ header::before {
     position: absolute;
     right: 0;
     display: block;
-    background-image: url(https://www.ndc.co.jp/assets/uploads/2017/04/designofdesign-2003_1959_01.jpg);
+    background-image: url(file:///C:/Users/jia_j/id2116-7/image/funbinn.png);
     background-size: cover;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
     z-index: -1;
-    min-height: ;
+    min-height: 100vh;
 }
   
 header *{
