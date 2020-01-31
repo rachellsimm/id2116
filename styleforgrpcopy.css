@@ -9,7 +9,7 @@ body {
    padding: 0;
    perspective: 1px;
    transform-style: preserve-3d;
-   height: 90%;
+   height: 120%;
    overflow-y: scroll;
    overflow-x: hidden;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
