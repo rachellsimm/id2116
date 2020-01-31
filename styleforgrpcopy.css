@@ -1,4 +1,7 @@
 body {
+    background-image:url(https://www.ndc.co.jp/assets/uploads/2017/04/designofdesign-2003_1959_01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: rgb(255, 255, 255);
   }
   
@@ -16,16 +19,34 @@ body {
     text-align: center;
   }
   h2 { 
-color: rgb(180, 180, 180);
+color: rgb(0, 0, 0);
 font-family: verdana;
-font-size: 15px;
+font-size: 24px;
 margin-left: 300px;
 margin-right: 300px;
 text-align: center;
 } 
 
+h3 { 
+  color: rgb(0, 0, 0);
+  font-family: verdana;
+  font-size: 12px;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  } 
+
+h4 { 
+  color: rgb(0, 0, 0);
+  font-family: verdana;
+  font-size: 18px;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  }   
+
 li {
-  color: rgb(138, 138, 138);
+  color: rgb(54, 133, 235);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 15px;
   margin-left: 300px;
