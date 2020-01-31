@@ -1,21 +1,21 @@
 body {
-    background-color: rgb(255, 255, 255);
-  }
-  
-  h1 {
-    color: rgb(180, 180, 180);
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 15px;
-    color: rgb(180, 180, 1805);
-    margin-left: 300px;
-    margin-right: 300px;
-    text-align: center;
-  }
-  h2 { 
+  background-color: rgb(245, 238, 230);
+}
+
+h1 {
+  color: rgb(180, 180, 180);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+  color: rgb(172, 162, 151);
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+}
+h2 { 
 color: rgb(180, 180, 180);
 font-family: verdana;
 font-size: 15px;
@@ -25,10 +25,10 @@ text-align: center;
 } 
 
 li {
-  color: rgb(138, 138, 138);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 15px;
-  margin-left: 300px;
-  margin-right: 300px;
-  text-align: left;
+color: rgb(138, 138, 138);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 15px;
+margin-left: 300px;
+margin-right: 300px;
+text-align: left;
 }
