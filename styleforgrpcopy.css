@@ -32,7 +32,7 @@ header {
 header, header::before{
     backgound: 50% 50% / cover;
     font-size: 30px;
-    text-shadow: inherit;
+    text-shadow: 2px;
 }
 
 header::before {
