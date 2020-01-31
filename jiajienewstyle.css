@@ -1,9 +1,26 @@
+.d-flex-c{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.d-flex-r{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.justify-content-space-around{justify-content: space-around;}
 body {
   background-color: white;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 24px;
   text-align: center;
+}
 
+.one_half{
+  width: 50%;
+  display: flex;
+  align-items: center;
 }
 
 h1 {
