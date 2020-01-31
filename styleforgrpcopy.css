@@ -43,7 +43,7 @@ header::before {
     position: absolute;
     right: 0;
     display: block;
-    background-image: url(file:///C:/Users/jia_j/id2116-7/image/funbinn.png);
+    background-image: url(image/funbinn.png);
     background-size: cover;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
