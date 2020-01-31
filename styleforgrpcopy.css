@@ -47,8 +47,8 @@ header::before {
     background-size: cover;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
-    z-index: -0.5;
-    min-height: 100vh;
+    z-index: 1;
+    min-height: 50vh;
 }
   
 header *{
