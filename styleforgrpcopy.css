@@ -56,15 +56,10 @@ header *{
   padding: 1em 0;
 }
 
-
-
-
-
-
 p {
     font-family: verdana;
     font-size: 18px;
-    color: rgb(255, 255, 255)55);
+    color: rgb(255, 255, 255);
     margin-left: 300px;
     margin-right: 300px;
     text-align: center;
