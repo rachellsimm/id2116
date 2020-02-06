@@ -8,7 +8,7 @@ body {
    margin: 0;
    padding: 0;
    perspective: 1px;
-   transform-style: preserve-3d;
+   transform-style: flat;
    height: 100%;
    overflow-y: scroll;
    overflow-x: hidden;
@@ -68,7 +68,6 @@ header *{
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
