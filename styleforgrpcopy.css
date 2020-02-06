@@ -36,16 +36,8 @@ header, header::before{
     font-size: 28px;
 }
 
-.parallax {
-  /* The image used */
-  background-image: url("image/funbinn.png");
-  
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
+
   
 header *{
   font-weight: normal;
