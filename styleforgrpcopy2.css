@@ -121,11 +121,11 @@ text-align: center;
 h3 { 
   color: rgb(88, 88, 88);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 170px;
+  font-size: 250px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 300px;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   letter-spacing: 0.1em;
   } 
