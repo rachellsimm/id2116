@@ -35,7 +35,7 @@ header {
 
 header, header::before{
     background: 50% 50% / cover;
-    font-size: 32px;
+    font-size: 30px;
 }
 
 header::before {
