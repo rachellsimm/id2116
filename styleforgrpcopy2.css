@@ -33,12 +33,12 @@ header {
 
 
   .h7{
-    box-sizing: border-box;
-    min-height: 100vh;
-    padding: 30vw 0 20vw;
-    position: relative;
-    transform-style: inherit;
-    width: 100vw;
+  box-sizing: border-box;
+  min-height: 100vh;
+  padding: 30vw 0 20vw;
+  position: relative;
+  transform-style: inherit;
+  width: 100vw;}
 
 header, header::before{
     background: 50% 50% / cover;
