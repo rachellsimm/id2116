@@ -63,9 +63,9 @@ header *{
 
 
 .column {
-  float: center;
-  width: 20%;
-  padding: 5px;
+  float: left;
+  width: 24%;
+  padding: 10px;
 }
 
 .row::after {
