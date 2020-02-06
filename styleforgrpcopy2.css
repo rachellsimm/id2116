@@ -65,7 +65,8 @@ header *{
 .column {
   float: left;
   width: 50%;
-  padding: 0px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .row::after {
