@@ -126,7 +126,7 @@ h3 {
   margin-right: auto;
   margin-top: 400px;
   text-align: center;
-  transform: (translate(50%));
+  translate: 50px;
   font-weight: bold;
   letter-spacing: 0.1em;
   } 
