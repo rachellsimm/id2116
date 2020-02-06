@@ -45,7 +45,7 @@ header::before {
     display: block;
     background-image: url(image/funbinn.png);
     perspective: 2px;
-    transform-style: preserve-3d;
+    transform-style: fixed;
     height: 100%;
     overflow-y: scroll;
     overflow-x: hidden;
