@@ -38,7 +38,7 @@ header, header::before{
 
 parallax {
   /* The image used */
-  background-image: url("funbinn.png");
+  background-image: url("image/funbinn.png");
 
   /* Set a specific height */
   min-height: 500px; 
