@@ -68,8 +68,8 @@ header *{
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 10%;
-  transition: .8s ease;
+  opacity: 0;
+  transition: .4s ease;
   background-color: rgb(255, 255, 255);
 }
 
