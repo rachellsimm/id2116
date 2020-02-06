@@ -92,7 +92,7 @@ header *{
   position: relative;
   float: left;
   width: 33.3%;
-  padding: 3%;
+  padding: 1%;
 }
 
 .row::after {
