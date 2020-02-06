@@ -62,7 +62,8 @@ header *{
 
 
 
-.column {
+.column :hover .overlay{
+  opacity: 1;
   float: left;
   width: 33.3%;
   padding: 0px;
