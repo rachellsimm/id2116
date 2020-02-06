@@ -36,19 +36,18 @@ header, header::before{
     font-size: 28px;
 }
 
-header::before {
-    bottom: 0;
-    content: "";
-    left: 0;
-    position: absolute;
-    right: 0;
-    display: block;
-    background-image: url(image/funbinn.png);
-    background-size: cover;
-    transform-origin: center center 0;
-    transform: translateZ(-1px) scale(2);
-    z-index: 1;
-    min-height: 100vh;
+parallax {
+  /* The image used */
+  background-image: url("funbinn.png");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
   
 header *{
