@@ -42,7 +42,7 @@ header::before {
     left: 0;
     position: absolute;
     right: 0;
-    display: contents;
+    display: block;
     background-image: url(image/funbinn.png);
     background-size: cover;
     transform-origin: center center 0;
