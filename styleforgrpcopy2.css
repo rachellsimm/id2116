@@ -122,9 +122,9 @@ h3 {
   color: rgb(88, 88, 88);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 80px;
-  margin-left: 300px;
-  margin-right: 300px;
-  margin-top: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 850px;
   text-align: center;
   } 
 
