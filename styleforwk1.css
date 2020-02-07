@@ -188,7 +188,7 @@ hr {
   margin-left: 38%;
   margin-right: 38%;
   border-width: 2px;
-  border-style: solid;
+  border-style: inherit;
 } 
 
 
