@@ -64,8 +64,8 @@ header::before {
 header *{
   font-weight: normal;
   letter-spacing: 0.2em;
-  text-align: center;
-  margin: 0;
+  text-align: left;
+  margin-left: 8%;
   padding: 1em 0;
 }
 
