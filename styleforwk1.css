@@ -191,6 +191,17 @@ p {
     text-align: left;
     }    
 
+h6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    margin-left: 38%;
+    margin-right: 38%;
+    text-align: left;
+    line-height: 1.6;
+    }   
+
+
 li {
   color: rgb(54, 133, 235);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
