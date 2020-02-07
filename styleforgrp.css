@@ -38,17 +38,17 @@ header, header::before{
 
 header::before {
     bottom: 0;
-    content: "";
+    content: unset;
     left: 0;
     position: absolute;
     right: 0;
     display: block;
     background-image: url(image/funbinn.png);
-    background-size: auto;
+    background-size: 100%;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
     z-index: 1;
-    min-height: 100vh;
+    min-height: 100%;
 }
   
 header *{
