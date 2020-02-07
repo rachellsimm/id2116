@@ -183,13 +183,14 @@ h5 {
 
 
 hr { 
-  display: block;
+  
   margin-top: 0em;
   margin-bottom: 0em;
   margin-left: 38%;
   margin-right: 38%;
   border-width: 1px;
-  border-style: inset;
+  background-color: black;
+  
 } 
 
 
