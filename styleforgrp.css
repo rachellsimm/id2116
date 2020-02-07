@@ -22,7 +22,7 @@ header {
   padding: 28vw 0 20vw;
   position: relative;
   transform-style: inherit;
-  width: 80vw;
+  width: 100%;
 }
   
  header h1 {
