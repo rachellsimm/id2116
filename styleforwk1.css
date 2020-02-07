@@ -100,10 +100,6 @@ header *{
   float: left;
   width: 100%;
   padding: 0px;  
-  background-image: url(image/photo_2020-02-07_19-02-30.jpg);
-  display: block;
-  margin-top: 1000px;
-  height: 3000px;
 }
 
 .column {
