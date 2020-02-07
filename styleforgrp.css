@@ -88,27 +88,10 @@ header *{
 }
 
 .column {
+  position: relative;
   float: left;
-  width: 33.33%;
+  width: 32%;
   padding: .5%;
-}
-
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
-
-
-* {
-  box-sizing: border-box;
 }
 
 .row::after {
