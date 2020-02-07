@@ -189,7 +189,18 @@ p {
     margin-right: 38%;
     text-align: left;
     line-height: 1.6;
-    }    
+    }   
+ 
+
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 40%;
+  margin-right: 40%;
+  border-style: inset;
+  border-width: 1px;
+}     
 
     
 li {
