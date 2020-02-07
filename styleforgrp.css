@@ -21,7 +21,7 @@ header {
   min-height: 100vh;
   padding: 28vw 0 20vw;
   position: relative;
-  transform-style: inherit;
+  transform-style: preserve-3d;
   width: 100%;
 }
   
