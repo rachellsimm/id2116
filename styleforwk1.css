@@ -15,11 +15,6 @@ body {
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
   }
 
-::backdrop{
-  background-image: url(image/photo_2020-02-07_19-02-30.jpg);
-  margin-top: 1000px;
-  height: 3000px;
-}
 
   .media {
     display: block;
@@ -104,7 +99,10 @@ header *{
   position: relative;
   float: left;
   width: 100%;
-  padding: 0px; 
+  padding: 0px;  
+  background-image: url(image/photo_2020-02-07_19-02-30.jpg);
+  margin-top: 1000px;
+  height: 3000px;
 }
 
 .column {
