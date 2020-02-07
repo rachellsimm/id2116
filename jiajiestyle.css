@@ -149,16 +149,16 @@ h3 {
   color: rgb(0, 0, 0);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 63px;
-  margin-left: 5%;
+  margin-left: 15%;
   margin-top: 290px;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   letter-spacing: 0.0em;
   } 
 
 .column3 {
     position: relative;
-
+    float: left;
     width: 100%;
     padding: .5%;
   }
