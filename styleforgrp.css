@@ -70,8 +70,8 @@ header *{
   height: 100%;
   width: 100%;
   opacity: 0;
-  transition: .4s ease;
-  background-color: rgb(182, 39, 39);
+  transition: 1s ease-in;
+  background-color: rgb(255, 255, 255);
 }
 
 .column:hover .overlay {
