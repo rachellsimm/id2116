@@ -38,7 +38,7 @@ header, header::before{
 
 header::before {
     bottom: 0;
-    content: ;
+    content: "";
     left: 0;
     position: absolute;
     right: 0;
