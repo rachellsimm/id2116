@@ -106,8 +106,8 @@ header *{
 .column {
   position: relative;
   float: left;
-  widows: 45%;
-  padding: .5px;
+  width: 32%;
+  padding: .5%;
 }
 
 .row::after {
