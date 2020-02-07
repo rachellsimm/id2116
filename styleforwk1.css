@@ -106,7 +106,7 @@ header *{
 .column {
   position: relative;
   float: left;
-  widows: 50%;
+  widows: 45%;
   padding: 2%;
 }
 
