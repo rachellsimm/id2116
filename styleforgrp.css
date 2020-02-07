@@ -44,7 +44,7 @@ header::before {
     right: 0;
     display: block;
     background-image: url(image/funbinn.png);
-    background-size: contain;
+    background-size: inherit;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
     z-index: 1;
