@@ -38,7 +38,7 @@ header, header::before{
 
 header::before {
     bottom: 0;
-    content: unset;
+    content: ;
     left: 0;
     position: absolute;
     right: 0;
@@ -48,7 +48,7 @@ header::before {
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
     z-index: 1;
-    
+    min-height: 100%;
 }
   
 header *{
