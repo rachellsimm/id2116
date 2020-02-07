@@ -57,7 +57,7 @@ header::before {
     background-image: url(image/preview/binfront.jpg);
     background-size: 750px;
     transform-origin: center center 0;
-    transform: translateZ(-100px) scale(2);
+    transform: translateZ(-2px) scale(2);
     z-index: 1;
     min-height: 100vh;
 }
