@@ -18,7 +18,7 @@ body {
 
 
   .media {
-    display: inline-block;
+    display: block;
     position: relative;
     vertical-align: top;
 }
