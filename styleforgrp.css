@@ -17,11 +17,11 @@ body {
 
 
 header {
-  box-sizing: border-box;
+  box-sizing: inherit;
   min-height: 100vh;
   padding: 28vw 0 20vw;
   position: relative;
-  transform-style: preserve-3d;
+  transform-style: inherit;
   width: 100%;
 }
   
