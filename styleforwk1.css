@@ -184,12 +184,12 @@ h5 {
 
 hr { 
   
-  margin-top: 0em;
-  margin-bottom: 0em;
-  margin-left: 38%;
-  margin-right: 38%;
-  border-width: 1px;
-  background-color: black;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
   
 } 
 
