@@ -17,9 +17,9 @@ body {
 
 
   .media {
-    display: block;
+    display: contents;
     position: relative;
-    vertical-align: top;
+    vertical-align:top;
 }
 
 
