@@ -16,6 +16,18 @@ body {
   }
 
 
+
+  .media {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+
+.media__image { display: block; }
+
+
+
+
 header {
   box-sizing: border-box;
   min-height: 100vh;
