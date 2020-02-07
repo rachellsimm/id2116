@@ -85,6 +85,11 @@ header *{
   background-color: rgb(255, 255, 255);
 }
 
+#demobox {
+  background-color: white;
+}
+
+
 .column:hover .overlay {
   opacity: 1;
 }
