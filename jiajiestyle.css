@@ -54,7 +54,7 @@ header::before {
     right: 0;
     display: block;
     background-image: url(image/jiajie_profile\ picture_long2.jpg);
-    background-size: 80%;
+    background-size: 88%;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
     z-index: 1;
