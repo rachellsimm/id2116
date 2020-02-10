@@ -55,7 +55,7 @@ html{
       display: block;
       background-image: url(image/preview/week\ 3\ -\ ideation\ sketch.jpg);
       filter: blur(1px);
-      height: 100%;
+      -webkit-filter: blur(1);
       background-size: 1250px;
       transform-origin: center center 0;
       transform: translateZ(-1px) scale(2);
