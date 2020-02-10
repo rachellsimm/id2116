@@ -50,7 +50,7 @@ html{
       bottom: 0;
       content: "";
       left: 0;
-      position: relative;
+      position: absolute;
       right: 0;
       display: block;
       background-image: url(image/preview/week\ 3\ -\ ideation\ sketch\ .jpg);
