@@ -53,7 +53,7 @@ html{
       position: absolute;
       right: 0;
       display: block;
-      background-image: url(image/preview/week2_3.jpg);
+      background-image: url(image/preview/week\ 3\ -\ ideation\ sketch\ .jpg);
       background-size: 1200px;
       transform-origin: center center 0;
       transform: translateZ(-1px) scale(2);
