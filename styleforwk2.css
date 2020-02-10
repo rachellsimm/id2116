@@ -16,11 +16,10 @@ body {
   }
 
 
-
   .media {
-    display: block;
+    display: contents;
     position: relative;
-    vertical-align: top;
+    vertical-align:top;
 }
 
 
@@ -54,8 +53,8 @@ header::before {
     position: absolute;
     right: 0;
     display: block;
-    background-image: url(image/IMG_2749.JPG);
-    background-size: cover;
+    background-image: url(image/preview/week2_3.jpg);
+    background-size: 780px;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
     z-index: 1;
@@ -85,6 +84,11 @@ header *{
   background-color: rgb(255, 255, 255);
 }
 
+#whitespace {
+  background-color: white;
+}
+
+
 .column:hover .overlay {
   opacity: 1;
 }
@@ -95,7 +99,7 @@ header *{
   position: relative;
   float: left;
   width: 100%;
-  padding: 0px; 
+  padding: 0px;  
 }
 
 .column {
@@ -151,30 +155,68 @@ h3 {
   letter-spacing: 0.0em;
   } 
 
+.column3 {
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: .5%;
+  }
+
+
 h4 { 
   color: rgb(0, 0, 0);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 16px;
-  margin: 30px 0px 0px 20px;
+  font-size: 24px;
+  margin-left: 38%;
+  margin-right: 38%;
   text-align: left;
   }   
 
 h5 { 
     color: rgb(0, 0, 0);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 16px;
-    margin: 30px 0px 0px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 38%;
+    margin-right: 38%;
     text-align: left;
     }  
 
-p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
+h6 {
     color: rgb(0, 0, 0);
-    margin: 0px 0px 0px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 38%;
+    margin-right: 38%;
     text-align: left;
-    }    
+    }
 
+hr { 
+  
+  display: block;
+  height: 1.5px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin-left: 36%;
+  margin-right: 36%;
+  padding: 5px;
+  
+} 
+
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    margin-left: 38%;
+    margin-right: 38%;
+    text-align: left;
+    line-height: 1.6;
+    }   
+ 
+
+    
+
+    
 li {
   color: rgb(54, 133, 235);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
