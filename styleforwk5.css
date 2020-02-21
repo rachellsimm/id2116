@@ -54,7 +54,7 @@ html{
       right: 0;
       display: block;
       background-image: url(image/preview/week\ 5\ .jpg);
-      background-size: 750px;
+      background-size: 1200px;
       transform-origin: center center 0;
       transform: translateZ(-1px) scale(2);
       z-index: 1;
