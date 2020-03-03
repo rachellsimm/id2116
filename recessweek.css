@@ -217,3 +217,5 @@ html{
     margin-right: 300px;
     text-align: left;
   }
+
+  .center { margin: 0 auto; width: 400px; }
