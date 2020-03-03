@@ -54,7 +54,7 @@ html{
       right: 0;
       display: block;
       background-image: url(image/preview/recess\ week\ -\ cover\ page.jpg);
-      background-size: 1200px;
+      background-size: 1200spx;
       transform-origin: center center 0;
       transform: translateZ(-1px) scale(2);
       z-index: 1;
