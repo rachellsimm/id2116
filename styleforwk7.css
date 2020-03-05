@@ -53,8 +53,8 @@ html{
       position: absolute;
       right: 0;
       display: block;
-      background-image: url(image/preview/binfront.jpg);
-      background-size: 780px;
+      background-image: url(image/preview/week\ 7\ -\ microbit\ in\ bin.jpg);
+      background-size: 1250px;
       transform-origin: center center 0;
       transform: translateZ(-1px) scale(2);
       z-index: 1;
